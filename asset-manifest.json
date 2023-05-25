@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-template-typescript/static/css/main.6defb575.css",
+    "main.js": "/react-template-typescript/static/js/main.fb40f17a.js",
+    "index.html": "/react-template-typescript/index.html",
+    "main.6defb575.css.map": "/react-template-typescript/static/css/main.6defb575.css.map",
+    "main.fb40f17a.js.map": "/react-template-typescript/static/js/main.fb40f17a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6defb575.css",
+    "static/js/main.fb40f17a.js"
+  ]
+}
